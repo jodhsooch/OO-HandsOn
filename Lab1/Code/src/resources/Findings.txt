@@ -1,0 +1,4 @@
+1. The instance variables of "Account" class are not properly encapsulated. They should be declared private for proper encapsulation.
+2. "AccManager2" class follows proper encapsulation while "AccManager1" doesn't.
+3. AccNo and Balance instance variables are calculated correctly using AccManager2. Whereas these variables are not calculated
+   accurately using AccManager1.
